@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Torus Wallet was supported in this project. (Reference: https://docs.tor.us/integration-builder/?b=wallet&chain=Ethereum&lang=React).  
 
 ## Available Scripts
 
